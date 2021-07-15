@@ -1,0 +1,1 @@
+This repo holds exercises for the anomaly detection module at Codeup.
